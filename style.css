@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(229, 242, 254);
+}
+#facebook{
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 200px;
+    text-align: center;
+}
+h1{
+    text-align: left;
+    color: blue;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div{
+    display: inline-block;
+    text-align: center;
+}
+#table{
+    border: solid white;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px silver;
+    border-radius: 10px;
+    margin-top: 100px;
+    
+}
+#login{
+    width: 170px;
+    height: 25px;
+    color: white;
+    background-color: blue;
+    border: none;
+    margin: 10px;
+}
+a{
+    text-decoration:none;
+    color: blue;
+}
+#create{
+color: white;
+background-color: rgb(5, 176, 5);
+border: none;
+margin: 10px;
+height: 25px;
+}
+input{
+     margin: 5px;    
+}
